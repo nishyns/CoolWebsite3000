@@ -1,0 +1,10 @@
+body {
+    background-color: skyblue; }
+    h1 {color: yellow; }
+    img{width: 300px;
+border-radius: 9px;
+box-shadow: 0 5px 100px rgba(256,256,256,0.8); transition: transform 0.2s ;} img:hover{transform: scale(1.05)} 
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
